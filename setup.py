@@ -9,6 +9,6 @@ setup(
     author_email="supermario94123@gmail.com",
     license="MIT",
     packages=find_packages(),
-    install_requires=["tensorflow", "scikit-image"],
+    install_requires=["scikit-image"],
     zip_safe=False,
 )
