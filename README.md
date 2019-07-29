@@ -1,4 +1,3 @@
 # Requirements
 
-unfortuantely, the basic dilation and erosion operations were implemented in tensorflow 1.14. 
-Therefore, tf 1.14 is a requirement at the moment.
+Tested with Tensorflow 1.13.1 and above
